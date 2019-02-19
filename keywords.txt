@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For StopWatch
+# Syntax Coloring Map For ButtonInterrupt
 #######################################
 
 #######################################
